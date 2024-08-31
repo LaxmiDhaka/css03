@@ -1,0 +1,34 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box
+}
+
+.container{
+
+    border: 10px solid black;
+    background-color: coral;
+    display: flex;
+    
+    justify-content:center;
+    flex-direction: row;
+    align-items: flex-end;
+
+}
+
+.box
+{ width: 100px;
+    height: 100px;
+}
+
+#box1
+{background-color: aqua;}
+
+#box2
+{background-color: chartreuse;}
+
+#box3
+{background-color: brown;}
+
+#box4
+{background-color: crimson;}
+
